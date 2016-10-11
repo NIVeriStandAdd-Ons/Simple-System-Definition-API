@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+</nicomment>
+<nierror code="9500">
+The node speficied in the System Def Path field was not found.
+</nierror>
+<nierror code="9501">
+The requested node already exists.  To overwrite this node, select the Overwrite Existing flag to True.
+</nierror>
+<nierror code="9502">
+The alias was not able to be created.
+</nierror>
+<nierror code="9503">
+The version of XML configuration file isn't supported.
+</nierror>
+</nidocument>
