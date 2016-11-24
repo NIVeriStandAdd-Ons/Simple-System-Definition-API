@@ -3,6 +3,22 @@ Simple-System-Definition-API
 
 The Simple System Definition API wraps the .NET system definition API into a simpler, more user friendly form.  It implements the most common functions.
 
+### Usage ###
+Copy and rename folder "Source" into "C:\Program Files (x86)\National Instruments\LabVIEW 20xx\user.lib\Simple SysDef"
+
+Folder structure should be
+```
+user.lib
++---Simple SysDef
+|   +---Examples
+|   |   +---_Files
+|   |   \---_SubVIs
+|   +---Utilities
+|   +---_Errors
+|   +---_SubVIs
+|   \---_Templates
+```
+
 ### LabVIEW Version ###
 
 LabVIEW 2015
