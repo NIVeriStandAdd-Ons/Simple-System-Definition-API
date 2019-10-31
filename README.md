@@ -21,7 +21,7 @@ user.lib
 
 ### LabVIEW Version ###
 
-LabVIEW 2015
+LabVIEW 2019
 
 ### Built Availability ###
 
@@ -33,7 +33,7 @@ The IP is not maintained.  It was written and tested in LV 2012 but has not been
 
 ### Dependencies ###
 
-NI VeriStand 2015
+NI VeriStand 2019
 
 ### License ###
 
